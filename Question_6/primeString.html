@@ -1,0 +1,46 @@
+<html>
+  <header>
+    <title>Prime string</title>
+  </header>
+  <body>
+    <h1>prime string test</h1>
+    <input type="text" placeholder="insert the prime number" id="primevalue" />
+    <button onclick="submit()">Submit Prime</button>
+    <h1 id="values"></h1>
+  </body>
+  <script>
+    function submit() {
+      let n = document.getElementById("primevalue").value;
+      let length = n.length;
+      let average = 1000000007;
+      function primHandle(number) {
+        let num = parseInt(number);
+        for (let i = 2; i * i <= num; i++) {
+          if (num % i == 0) return false;
+        }
+        return num > 1 ? true : false;
+      }
+      function handlePrimeString(number, i) {
+        if (i == 0) {
+          return 1;
+        }
+        let count = 0;
+        for (let j = 1; j <= 6; j++) {
+          if (
+            i - j >= 0 &&
+            number[i - j] != "0" &&
+            primHandle(number.substring(i - j, i))
+          ) {
+            count += handlePrimeString(number, i - j);
+            count %= average;
+          }
+        }
+        return count;
+      }
+      document.getElementById("values").innerHTML = handlePrimeString(
+        n,
+        length
+      );
+    }
+  </script>
+</html>
