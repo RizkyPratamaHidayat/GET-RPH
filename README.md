@@ -14,3 +14,10 @@ npm install
 after that
 npm run.
 but you need to import the database to your mysql, you can get the database from database folder inside project number7.
+and also you can see my number 7 result at the png image i sent inside the folder
+
+
+More or Less Thankyou :)
+
+BEST REGARDS,
+EKi Hie
