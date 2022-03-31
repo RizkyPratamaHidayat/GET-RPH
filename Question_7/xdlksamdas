@@ -1,0 +1,137 @@
+[33mcommit 19e8507fe8b7209eb39137b7b859a4849165416e[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 20 21:57:00 2021 +0700
+
+    fixing register
+
+[33mcommit 09c549139650eb6bd6cb54cbc059d10e87c20dec[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 20 21:55:06 2021 +0700
+
+    fixing register
+
+[33mcommit 96ef4e075f187cf8160c689ca3656cb1ae2d272c[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 20 21:52:02 2021 +0700
+
+    register validation
+
+[33mcommit c26be888117d62eb60a70a75a81e742f1913981b[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 20 21:50:54 2021 +0700
+
+    register validation
+
+[33mcommit 168a0072134a3fbfbb7df3bebe52ffb004ba66be[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 20 21:43:39 2021 +0700
+
+    register validation
+
+[33mcommit 39dcfa87f5f42b59c5b7281f50ca988bf1707c35[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 20 21:42:37 2021 +0700
+
+    register
+
+[33mcommit 24b13609e8b06647d36eb86375ae1590337ee0a8[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 20 18:48:24 2021 +0700
+
+    add file url
+
+[33mcommit 78ea91b94d6f03ab03d365396ed4a687644e97f9[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Sat Dec 18 21:53:06 2021 +0700
+
+    chart
+
+[33mcommit 57ec5aaa3924ea4e5c3f1d1206c510487fd2419a[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Wed Dec 15 16:33:33 2021 +0700
+
+    product list and detail
+
+[33mcommit c73cc9b58d9fab0e9e49a1e06b9fe7dc50297726[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Wed Dec 15 02:13:58 2021 +0700
+
+    FAQ
+
+[33mcommit 5c5f42387496f52a233e65ed4d3fba31bde680c3[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Tue Dec 14 18:56:52 2021 +0700
+
+    change initial auth
+
+[33mcommit 592b53c1da4eb614e992e82b05b0f34eda446765[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Tue Dec 14 18:13:30 2021 +0700
+
+    change initial auth
+
+[33mcommit 9bf820f4867a4ccb81eea8e88bede0f7ebc7e7ba[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Tue Dec 14 16:15:36 2021 +0700
+
+    register
+
+[33mcommit b3ed8d561a3660be99f4a0dceee6f5d7951f3c33[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Tue Dec 14 11:13:03 2021 +0700
+
+    login and token generator
+
+[33mcommit 925f67c39acb26790b1e88732950bc37e6b2f97d[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 13 04:41:41 2021 +0700
+
+    database hosting
+
+[33mcommit 65fe32bdc1971fc9f98d292c42a5e4e83b0755fd[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 13 04:39:19 2021 +0700
+
+    database hosting
+
+[33mcommit d9741a1f7927bb2b1355e188702d5f910c1e34c4[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 13 04:01:37 2021 +0700
+
+    add login endpoint
+
+[33mcommit 1008ec701df6f6b8dcd6e9fd0cd6269be6a51616[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 13 03:35:06 2021 +0700
+
+    fixing package
+
+[33mcommit 6f3766efbe78a185d8fc3c8dfbea6098741feec8[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 13 03:32:10 2021 +0700
+
+    add routes
+
+[33mcommit ae4928645c098271aece70efac6447389b48364c[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 13 03:29:32 2021 +0700
+
+    ignore
+
+[33mcommit ae24f39c7025f1a66ff4cb6d64bfea18521b7356[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Rizky Pratama Hidayat <Rizky_P428@mitrais.com>
+Date:   Mon Dec 13 03:11:55 2021 +0700
+
+    ädd gitignore
+
+[33mcommit d6e6a596462342f8a725ade89693aa6e9260fbf2[m
+Author: RizkyPratamaHidayat <81179976+RizkyPratamaHidayat@users.noreply.github.com>
+Date:   Mon Dec 13 03:09:02 2021 +0700
+
+    Add files via upload
+
+[33mcommit bcaecaeccf4ad14512cc11f8de23ce0f10b1ff16[m
+Author: RizkyPratamaHidayat <81179976+RizkyPratamaHidayat@users.noreply.github.com>
+Date:   Sun Dec 12 20:59:48 2021 +0700
+
+    Initial commit
